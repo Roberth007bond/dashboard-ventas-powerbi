@@ -13,15 +13,13 @@ Dashboard interactivo desarrollado en Power BI sobre un dataset de ventas de sup
 
 ## 📁 Estructura del proyecto
 
-dashboard-ventas-powerbi/
-│
-├── ventas_dashboard_robert.pbix        # Archivo Power BI descargable
-├── Captura de pantalla 2026-05-10 165921.png  # Resumen Ejecutivo
-├── Captura de pantalla 2026-05-10 170101.png  # Análisis por Producto
-├── Captura de pantalla 2026-05-10 170149.png  # Tendencia Temporal
-└── README.md
----
-
+| Archivo | Descripción |
+|---|---|
+| `ventas_dashboard_robert.pbix` | Archivo Power BI descargable |
+| `Captura de pantalla 2026-05-10 165921.png` | Resumen Ejecutivo |
+| `Captura de pantalla 2026-05-10 170101.png` | Análisis por Producto |
+| `Captura de pantalla 2026-05-10 170149.png` | Tendencia Temporal |
+| `README.md` | Documentación del proyecto |
 ## 📄 Páginas del Dashboard
 
 ### 1. Resumen Ejecutivo — KPIs Generales
